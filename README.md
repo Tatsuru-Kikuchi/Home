@@ -20,4 +20,4 @@ If you want to contact me you can reach me at Tatsuru Kikuchi (<tatsuru.kikuchi@
 
 License
 =======
-Sourcerer is under the MIT license. See the [LICENSE](https://github.com/sourcerer-io/sourcerer-app/blob/develop/LICENSE.md) for more information.
+Sourcerer is under the MIT license. 
