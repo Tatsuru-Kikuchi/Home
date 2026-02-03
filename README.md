@@ -16,7 +16,7 @@ A visual profile for software engineers.
 
 License
 =======
-If you want to contact me you can reach me at <tatsuru.kikuchi@e.u-tokyo.ac.jp>.
+If you want to contact me you can reach me at Tatsuru Kikuchi <tatsuru.kikuchi@gmail.com>.
 
 License
 =======
