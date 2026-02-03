@@ -14,9 +14,9 @@ A visual profile for software engineers.
   <img alt="sergey" src="https://user-images.githubusercontent.com/20287615/47371068-c70f5a00-d6ef-11e8-8988-dcdca71bf83c.gif">
 </p>
 
-License
+Author
 =======
-If you want to contact me you can reach me at Tatsuru Kikuchi <tatsuru.kikuchi@gmail.com>.
+If you want to contact me you can reach me at Tatsuru Kikuchi (<tatsuru.kikuchi@gmail.com>).
 
 License
 =======
